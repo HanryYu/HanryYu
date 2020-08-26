@@ -4,7 +4,7 @@
 - 🤔 Maybe I can't be the greatest developer in this world, but I hope I can integrate resources to create the best product that can help everyone... <br/>
 - 🚩 I am trying to become an independent developer.
 
-[![FishionYu's github stats](https://github-readme-stats.vercel.app/api?username=FishionYu)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&hide=contribs,prs,issues)
+[![FishionYu's github stats](https://github-readme-stats.vercel.app/api?username=FishionYu&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 
 ### Recent work
 [[typora-blubook-theme] ](https://github.com/FishionYu/typora-blubook-theme) 
