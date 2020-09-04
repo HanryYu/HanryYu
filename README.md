@@ -1,5 +1,5 @@
 ### HI, I'M FishionYu 👋
-👨‍💻产品 / 🙇‍♂开发者 / 🧑🏼‍🎨设计师
+### 👨‍💻Product Manager / 🙇‍♂Developer / 🧑🏼‍🎨Designer
 
 - 😄 I am an idealistic Internet practitioner. I work as a product manager. <br/>
 - 🤔 Maybe I can't be the greatest developer in this world, but I hope I can integrate resources to create the best product that can help everyone... <br/>
