@@ -1,4 +1,4 @@
-### HI, I'M RayYu 👋
+### HI, I'M HanryYu 👋
 
 ### 👨‍💻Product Manager / 🙇‍♂Developer / 🧑🏼‍🎨Designer
 
