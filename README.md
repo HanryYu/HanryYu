@@ -2,7 +2,7 @@
 
 ### 👨‍💻Product Manager / 🙇‍♂Developer / 🧑🏼‍🎨Designer
 
-| [![FishionYu's github stats](https://github-readme-stats.vercel.app/api?username=FishionYu&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats&show_icons=true) | My Blog 📘<br/>[![img](https://img.shields.io/website?label=My&style=for-the-badge&up_color=blueviolet&up_message=Portfolio&url=https%3A%2F%2Fhanry.top%2F)](https://hanry.top/) <br/>[![img](https://img.shields.io/website?label=My&style=for-the-badge&up_color=blue&up_message=Blog&url=https%3A%2F%2Fwww.hanry.top%2F)](https://www.hanry.top/)  |
+| [![G=HanryYu's github stats](https://github-readme-stats.vercel.app/api?username=HanryYu&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats&show_icons=true) | My Blog 📘<br/>[![img](https://img.shields.io/website?label=My&style=for-the-badge&up_color=blueviolet&up_message=Portfolio&url=https%3A%2F%2Fhanry.top%2F)](https://hanry.top/) <br/>[![img](https://img.shields.io/website?label=My&style=for-the-badge&up_color=blue&up_message=Blog&url=https%3A%2F%2Fwww.hanry.top%2F)](https://www.hanry.top/)  |
 | ------------------------------------------------------------ | :------------------------------------------------------------ |
 
 
