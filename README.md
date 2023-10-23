@@ -24,7 +24,7 @@
     <img src=https://img.shields.io/website?label=My&style=for-the-badge&up_color=blue&up_message=Portfolio&url=https%3A%2F%2Fhanry.top%2F alt=home style="margin-bottom: 5px;" />
 </a>  
 </a>  
-  <a href = "https://hanry.top/" target="_blank">
+  <a href = "https://www.hanry.top/" target="_blank">
     <img src=https://img.shields.io/website?label=My&style=for-the-badge&up_color=blue&up_message=Blog&url=https%3A%2F%2Fwww.hanry.top%2F alt=home style="margin-bottom: 5px;" />
 </a>  
 </div>  
