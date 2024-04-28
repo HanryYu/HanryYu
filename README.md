@@ -5,7 +5,7 @@
 ### <div align="center">Hi, I'm HanryYu 👋, a 👨‍💻Product Manager/ 🧑🏼‍🎨Designer / 🙇‍♂Developer </div>  
   
 
-- 🌱 I'm very interested in tool products and SaaS, and I will focus on this field  
+- 🌱 I'm very interested in AI products and SaaS, and I will focus on this field  
   
 
 - 🔨 Improve efficiency to get everything done, then free up time for slacking off  
