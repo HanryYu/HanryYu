@@ -13,16 +13,20 @@
 
 - ⚡ Fun fact: I use tabs over spaces & I drink coffee every day ☕  
 
-
+<br/>  
 
 ## My New iOS App
-** ScapeTZ - A modern, simple, powerful world clock converter. **
+
+### ScapeTZ - A modern, simple, powerful world clock converter
+
 Support to add 5000+ cities, easily check time, sun events, and hourly weather for different cities, support more beautiful widgets.
+
 <div align="center">
   <img src="https://github.com/HanryYu/HanryYu/blob/master/scapetz.jpg?raw=true" align="center" height="" width="600" />
 </div>  
 
-<https://apps.apple.com/app/scapetz-world-time-converter/id6479734119>{ Download}
+
+[ Download](https://apps.apple.com/app/scapetz-world-time-converter/id6479734119)
   
 
 <br/>  
