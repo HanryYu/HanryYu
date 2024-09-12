@@ -2,7 +2,7 @@
 <img src="https://github.com/HanryYu/HanryYu/blob/master/top.gif?raw=true" align="center" height="" width="400" />
 </div>  
 
-### <div align="center">Hi, I'm Ryan Han 👋, a 👨‍💻Product Manager/ 🧑🏼‍🎨Designer / 🙇‍♂Developer </div>  
+### <div align="center">Hi, I'm Ryan Hansen 👋, a 👨‍💻Product Manager/ 🧑🏼‍🎨Designer / 🙇‍♂Developer </div>  
   
 
 - 🌱 I'm very interested in AI products and SaaS, and I will focus on this field  
