@@ -96,7 +96,8 @@ Support to add 5000+ cities, easily check time, sun events, and hourly weather f
 
 ## Github Stats  
 <div align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=HanryYu&show_icons=true&count_private=true&hide_border=true" align="center" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=HanryYu&show_icons=true&count_private=true&hide_border=true" width="45%" align="left" style="height: 150px; object-fit: contain;" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanryyu&hide_border=true&layout=compact" width="45%" align="right" style="height: 150px; object-fit: contain;" />
 </div>
 <br/>  
 
