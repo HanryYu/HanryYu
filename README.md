@@ -34,7 +34,7 @@ Support to add 5000+ cities, easily check time, sun events, and hourly weather f
 <br/>  
 
 ## My Skill Set  
-<table style="width: 100%"><tr><td valign="top" width="33%">
+<table width="100%"><tr><td valign="top" width="33%">
 
 ### Frontend  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a> <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a> <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a> <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a> <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
@@ -54,7 +54,7 @@ Support to add 5000+ cities, easily check time, sun events, and hourly weather f
 <br/>  
 
 ## Github Stats  
-<table style="width: 100%"><tr>
+<table width="100%"><tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=HanryYu&show_icons=true&count_private=true&hide_border=true" width="100%" /></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanryyu&hide_border=true&layout=compact" width="100%" /></td>
 </tr></table>
